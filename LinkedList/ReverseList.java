@@ -73,7 +73,6 @@ public class ReverseList {
 			ret = ret.next;
 		}
 	}
-
 	//public static void main(String[] args) {
 		//Scanner sc = new Scanner(System.in);
 		//ReverseList test = new ReverseList();
